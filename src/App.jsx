@@ -32,7 +32,7 @@ const App = () => {
             rel="noopener noreferrer"
             className="block"
           >
-            <div className="h-52 w-48 rounded-xl overflow-hidden shadow-lg bg-gray-900 border border-gray-700 hover:shadow-amber-500/20 transition-all duration-300">
+            <div className="h-52 w-50 rounded-xl shadow-lg bg-gray-900 border border-gray-700 hover:shadow-amber-500/20 transition-all duration-300">
               <img
                 className="h-full w-full object-cover hover:scale-110 transition-transform duration-300"
                 src={elem.download_url}
